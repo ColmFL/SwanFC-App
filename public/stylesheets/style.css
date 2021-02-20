@@ -1,0 +1,22 @@
+body {
+  padding: 50px;
+  font: 16px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+h1, h2, h3, p, main {
+	font-weight: bold;
+	color: darkmagenta;
+	background: lightskyblue;
+}
+
+table, th, td {
+  background-color: fuchsia;
+  border: 1px solid black
+}
+
+
+
+
+
+
+

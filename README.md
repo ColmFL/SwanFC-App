@@ -11,11 +11,11 @@ by using the aformentioned front-end technologies and also Express.js and Handle
 
 ## **Tech/Framework Used**
 
-Express.js
-Node.js
-Handlebars
-Rest APIs
-NPM
-Javascript
-CSS
-HTML
+- Express.js
+- Node.js
+- Handlebars
+- Rest APIs
+- NPM
+- Javascript
+- CSS
+- HTML
